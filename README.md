@@ -58,7 +58,7 @@ lwc-superbadge/
 
 Clone the repository
 
-git clone https://github.com/<your-username>/lwc-superbadge.git
+git clone https://github.com/kkomal03/Lightning-Web-Components-Specialist-SuperBadge.git
 
 
 Authorize a Salesforce org
