@@ -1,0 +1,2 @@
+// script.apex
+GenerateData.init();
